@@ -8,7 +8,7 @@ NAO/Zora can automatically understand the **polarity** of what the user says. Ba
 1. Download [glove.6B](http://nlp.stanford.edu/data/glove.6B.zip) and place all the text files into `WordVectors/glove.6B/`
 1. Download SentiWordNet_3.0 in the root of the porject
 ```
-wget -O SentiWordNet_3.0.txt https://github.com/aesuli/SentiWordNet/blob/master/data/SentiWordNet_3.0.0.txt
+wget -O SentiWordNet_3.0.txt https://github.com/aesuli/SentiWordNet/raw/master/data/SentiWordNet_3.0.0.txt
 ```
 4. Download opennlp files
 ```
